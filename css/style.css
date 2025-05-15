@@ -394,7 +394,7 @@ header {
     }
 
     #section-gifts {
-        background-image: url("img/main2.webp");
+        background-image: url("../img/main2.webp");
         background-repeat: no-repeat;
         height: 100vh;
         position: relative;
@@ -507,7 +507,7 @@ header {
     }
 
     #section-write {
-        background-image: url("img/main3.webp");
+        background-image: url("../img/main3.webp");
         background-repeat: no-repeat;
         height: 100vh;
         background-size: cover;
